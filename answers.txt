@@ -5,3 +5,7 @@ Answer: Git is useful to track large sets of changes to code. For example, if a 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science is highly applicable to the political sciences, where people's behavior can be used to predict whether they will favor a given policy. Given Nate Silver's success in predicting previous election results, this is a promising application.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: When merging two branches, the two branches are unchanged and continue to be reflected in the commit tree as the result of the merge has two parent commits. On the other hand, when rebasing, the second branch is completely reconstructed and placed at the end of the first branch, effectively obscuring the fact that the second branch was previously separate.
