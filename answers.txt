@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science is highly applicable to the political sciences, where people's behavior can be used to predict whether they will favor a given policy. Given Nate Silver's success in predicting previous election results, this is a promising application.
