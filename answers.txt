@@ -9,3 +9,7 @@ Answer: Data science is highly applicable to the political sciences, where peopl
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: When merging two branches, the two branches are unchanged and continue to be reflected in the commit tree as the result of the merge has two parent commits. On the other hand, when rebasing, the second branch is completely reconstructed and placed at the end of the first branch, effectively obscuring the fact that the second branch was previously separate.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I look forward to continuing to deepen my curiosity throughout the semester through my classes and other work. There is so much to be learned.
